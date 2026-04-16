@@ -162,6 +162,7 @@ AI tools focused on singing voice synthesis and vocal processing.
 - [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) — Singing voice synthesis.
 - [Kits.AI](https://kits.ai) — Voice cloning for musicians.
 - [MusicWave Voice Personas](https://www.musicwave.ai) — Clone a voice from a vocal sample and use it in generations.
+- [voicetoinstrument.com](https://voicetoinstrument.com) — Convert voice to instrumental tracks using AI.
 
 ---
 
