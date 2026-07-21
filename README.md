@@ -73,6 +73,7 @@ Programmatic access for building AI music into your own apps.
 - [Replicate](https://replicate.com/collections/ml-music) — Host and run open-source music models via API.
 - [Hugging Face Inference API](https://huggingface.co/inference-api) — Run MusicGen and other audio models via HTTP.
 - [Mubert API](https://mubert.com/docs/api) — Streaming and generation API.
+- [RunAPI Suno SDK](https://github.com/runapi-ai/suno-sdk) — Multi-language SDKs for building Suno music-generation workflows through RunAPI.
 - [Suno API (community)](https://github.com/gcui-art/suno-api) — Unofficial wrapper around Suno.
 
 ---
