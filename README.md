@@ -150,6 +150,7 @@ For symbolic music processing and audio-to-MIDI conversion.
 - [Magenta.js](https://github.com/magenta/magenta-js) — ML-powered MIDI generation in the browser.
 - [Basic Pitch](https://github.com/spotify/basic-pitch) — Spotify's audio-to-MIDI library.
 - [MIDI.js](https://github.com/mudcube/MIDI.js) — JavaScript MIDI playback.
+- [Sound2MIDI](https://sound2midi.xyz/) — Free browser-based audio to MIDI converter; processing stays in the browser.
 - [Tonal](https://github.com/tonaljs/tonal) — Music theory library for JavaScript.
 
 ---
