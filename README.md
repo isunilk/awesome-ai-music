@@ -37,6 +37,7 @@ Hosted AI music generation services. Most offer web UIs and some expose APIs.
 - [Stable Audio](https://stableaudio.com) — Stability AI's text-to-audio platform, strong for instrumentals and sound design.
 - [Mubert](https://mubert.com) — API-first generative music service oriented toward developers.
 - [Loudly](https://loudly.com) — Background music generator aimed at content creators.
+- [MusicGo](https://musicgo.net/) — Browser-based text-to-song creation with a personal library and new versions from lyrics or music descriptions.
 - [Soundraw](https://soundraw.io) — Customizable AI-generated music for video creators.
 - [Beatoven.ai](https://beatoven.ai) — Mood-based music generation for content.
 - [AIVA](https://aiva.ai) — AI composer focused on cinematic, classical, and orchestral styles.
