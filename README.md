@@ -41,6 +41,7 @@ Hosted AI music generation services. Most offer web UIs and some expose APIs.
 - [Beatoven.ai](https://beatoven.ai) — Mood-based music generation for content.
 - [AIVA](https://aiva.ai) — AI composer focused on cinematic, classical, and orchestral styles.
 - [Boomy](https://boomy.com) — Consumer-friendly quick-generation tool.
+- [LyricsGift](https://lyricsgift.com) — Personalised gift songs written from a story you type, with line-by-line lyric approval. Paid, one-time.
 
 ### Free / Freemium Tiers
 
