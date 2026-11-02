@@ -118,6 +118,7 @@ Separate vocals, drums, bass, and other instruments from mixed tracks.
 - [MusicWave Stem Splitter](https://www.musicwave.ai) — 2/4/5-stem separation with adjustable quality.
 - [LALAL.AI](https://lalal.ai) — Web-based stem separation service.
 - [Moises](https://moises.ai) — Music practice-oriented separation.
+- [MusiCraft Stem Splitter](https://www.musicraft.ai/features/stem-splitter) — AI stem separation with 66 modes (vocals, drums, bass, instruments, SATB), plus mastering and transcription. Freemium.
 
 ---
 
