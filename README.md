@@ -147,6 +147,7 @@ JavaScript libraries for playing, mixing, and manipulating audio in the browser.
 
 For symbolic music processing and audio-to-MIDI conversion.
 
+- [AudioMIDI](https://audiomidi.app/) — Browser audio-to-MIDI for short melodies; local Quick and consented remote Deep modes, preview and MIDI export.
 - [Magenta.js](https://github.com/magenta/magenta-js) — ML-powered MIDI generation in the browser.
 - [Basic Pitch](https://github.com/spotify/basic-pitch) — Spotify's audio-to-MIDI library.
 - [MIDI.js](https://github.com/mudcube/MIDI.js) — JavaScript MIDI playback.
